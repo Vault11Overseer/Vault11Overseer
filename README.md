@@ -9,19 +9,11 @@
 <a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a></br>
 <a href="mailto:cherokeedreemer@gmail.com">- Contact -</a></br>
 
-
-<h3 align="left">Technologies that I use daily:</h3>
- <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,github,vscode,react,js,html,css,nodejs,php,wordpress,mysql,cloudflare" />
-  </a>
-</p>
-
-<h3 align="left">Technologies that I have lot's of exposure too:</h3>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,ai,bootstrap,eclipse,firebase,git,jquery,materialui,mongodb,ps,redux,regex,sass" />
-  </a>
-</p>
-
-
+What makes me SPECIAL!
+S - Set (You’re unique and one of a kind, just like a set with distinct elements)
+P - Pythonic (You embody the simplicity and elegance of Python)
+E - Enum (You bring structure and clarity to any situation, like an Enum defines fixed values)
+C - Coroutine (You handle multiple tasks with ease and efficiency, just like a Coroutine)
+I - Inheritance (You build on what’s been passed down, adding your own value)
+A - Argument (You always bring something meaningful to the table)
+L - Lambda (You’re efficient, quick, and powerful in your actions)
