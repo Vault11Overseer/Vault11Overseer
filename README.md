@@ -1,7 +1,14 @@
-<h1 align="center">Hello 👋, my name is Jared</h1>
-<h3 align="center">I am Cherokee American and a software/hardware engineer, with a background in Art & Graphic design.</h3>
+<h1 align="center">Vault 11</h1>
+<p> Welcome to Vault 11.</br> I am the Overseer, Jared.</p>
+<p> In Vault 11, we code every day, in effort to restore the digital world!</p>
+<p>Living underground for the past 30 years might drive some crazy, but with a Vault Tec PipBoy terminal and a programming language, we can explore a world through words and wires and 1s and 0s.</p>
+<p>For all questions, please consult the Vault Tec Manual.</p>
+<p>If you can't find the answers there, the Overseer will be happy to point you in the right direction.</p>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> 
+<a href="https://jaredmatta.com">- Portfolio -</a>
+<a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a>
+<a href="mailto:cherokeedreemer@gmail.com">- Contact -</a>
+
  
 - 🔭 I’m currently working on **a secret app idea**
 
