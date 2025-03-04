@@ -1,4 +1,4 @@
-<h1 align="center">Wecome to Vault 11</h1>
+<h1>Wecome to Vault 11</h1>
 <p> I am the Overseer, Jared.</p>
 <p> In Vault 11, we code every day, in an effort to restore the digital world of tomorrow!</p>
 <p>Living underground for the past 30 years might drive some crazy, but with a Vault Tec PipBoy terminal and a programming language, we can explore a world through words and wires and 1s and 0s.</p>
@@ -24,10 +24,4 @@
   </a>
 </p>
 
-<h3 align="left">Technologies I used once before:</h3>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,angular,c,cpp,cs,django,docker,graphql,java,jest,kubernetes,postgres,rails,ts,vue" />
-  </a>
-</p>
 
