@@ -9,11 +9,11 @@
 <a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a></br>
 <a href="mailto:cherokeedreemer@gmail.com">- Contact -</a></br>
 
-What makes me SPECIAL!
-S - Set (You’re unique and one of a kind, just like a set with distinct elements)
-P - Pythonic (You embody the simplicity and elegance of Python)
-E - Enum (You bring structure and clarity to any situation, like an Enum defines fixed values)
-C - Coroutine (You handle multiple tasks with ease and efficiency, just like a Coroutine)
-I - Inheritance (You build on what’s been passed down, adding your own value)
-A - Argument (You always bring something meaningful to the table)
-L - Lambda (You’re efficient, quick, and powerful in your actions)
+What makes me SPECIAL!</br>
+S - Set (You’re unique and one of a kind, just like a set with distinct elements)</br>
+P - Pythonic (You embody the simplicity and elegance of Python)</br>
+E - Enum (You bring structure and clarity to any situation, like an Enum defines fixed values)</br>
+C - Coroutine (You handle multiple tasks with ease and efficiency, just like a Coroutine)</br>
+I - Inheritance (You build on what’s been passed down, adding your own value)</br>
+A - Argument (You always bring something meaningful to the table)</br>
+L - Lambda (You’re efficient, quick, and powerful in your actions)</br>
