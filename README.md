@@ -1,26 +1,13 @@
-<h1 align="center">Vault 11</h1>
-<p> Welcome to Vault 11.</br> I am the Overseer, Jared.</p>
-<p> In Vault 11, we code every day, in effort to restore the digital world!</p>
+<h1 align="center">Wecome to Vault 11</h1>
+<p> I am the Overseer, Jared.</p>
+<p> In Vault 11, we code every day, in an effort to restore the digital world of tomorrow!</p>
 <p>Living underground for the past 30 years might drive some crazy, but with a Vault Tec PipBoy terminal and a programming language, we can explore a world through words and wires and 1s and 0s.</p>
 <p>For all questions, please consult the Vault Tec Manual.</p>
 <p>If you can't find the answers there, the Overseer will be happy to point you in the right direction.</p>
 
-<a href="https://jaredmatta.com">- Portfolio -</a>
-<a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a>
-<a href="mailto:cherokeedreemer@gmail.com">- Contact -</a>
-
- 
-- 🔭 I’m currently working on **a secret app idea**
-
-- 🌱 I’m currently learning **Python Networking**
-
-- 👯 I’m looking to collaborate on **anything to do with game development or learning AI**
-
-- 👨‍💻 All of my projects are available at [jaredmatta.com](https://jaredmatta.com/)
-
-- 📫 How to reach me **cherokeedreemer@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing)
+<a href="https://jaredmatta.com">- Portfolio -</a></br>
+<a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a></br>
+<a href="mailto:cherokeedreemer@gmail.com">- Contact -</a></br>
 
 
 <h3 align="left">Technologies that I use daily:</h3>
