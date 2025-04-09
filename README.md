@@ -1,19 +1,12 @@
-<h1>Wecome to Vault 11</h1>
-<p> I am the Overseer, Jared.</p>
-<p> In Vault 11, we code every day, in an effort to restore the digital world of tomorrow!</p>
-<p>Living underground for the past 30 years might drive some crazy, but with a Vault Tec PipBoy terminal and a programming language, we can explore a world through words and wires and 1s and 0s.</p>
-<p>For all questions, please consult the Vault Tec Manual.</p>
-<p>If you can't find the answers there, the Overseer will be happy to point you in the right direction.</p>
+<h1>Wecome</h1>
+<p> My name is, Jared.</p>
+<p>I have been tinkering with engines, motors, and computers since I was a kid, and I have always been the type to love to learn.</p>
+<p>I am an artist and a jack of all trades.</p>
+<p>From software to hardware, from programming to making my own models, if it's technical, I want to know how it works.</p>
+<p>Currently, I am looking to move away from the big city and would like to make my place in the world wherever and whatever that may be.</p>
+
 
 <a href="https://jaredmatta.com">- Portfolio -</a></br>
 <a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a></br>
 <a href="mailto:cherokeedreemer@gmail.com">- Contact -</a></br>
 
-What makes me SPECIAL!</br>
-S - Set (You’re unique and one of a kind, just like a set with distinct elements)</br>
-P - Pythonic (You embody the simplicity and elegance of Python)</br>
-E - Enum (You bring structure and clarity to any situation, like an Enum defines fixed values)</br>
-C - Coroutine (You handle multiple tasks with ease and efficiency, just like a Coroutine)</br>
-I - Inheritance (You build on what’s been passed down, adding your own value)</br>
-A - Argument (You always bring something meaningful to the table)</br>
-L - Lambda (You’re efficient, quick, and powerful in your actions)</br>
