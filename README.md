@@ -3,7 +3,7 @@
 <p>I have been tinkering with engines, motors, and computers since I was a kid, and I have always been the type to love to learn.</p>
 <p>I am an artist and a jack of all trades.</p>
 <p>From software to hardware, from programming to making my own models, if it's technical, I want to know how it works.</p>
-<p>Currently, I am looking to move away from the big city and would like to make my place in the world wherever and whatever that may be.</p>
+<p>Currently, I am looking for a new job as a full-stack Python developer.</p>
 
 
 <a href="https://jaredmatta.com">- Portfolio -</a></br>
