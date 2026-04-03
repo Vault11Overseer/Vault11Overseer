@@ -8,5 +8,5 @@
 
 <!-- <a href="https://jaredmatta.com">- Portfolio -</a></br> -->
 <!-- <a href="https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing">- Resume -</a></br> -->
-<a href="mailto:cherokeedreemer@gmail.com">- Contact -</a></br>
+<!-- <a href="mailto:cherokeedreemer@gmail.com">- Contact -</a></br> -->
 
